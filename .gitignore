@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pycs 
+
+.streamlit/
+
+.DS_Store
+Thumbs.db
+
+.vscode/

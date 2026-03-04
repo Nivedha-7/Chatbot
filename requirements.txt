@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+
+langchain
+langchain-community
+langchain-openai
+
+azure-storage-blob
+azure-search-documents
+
+psycopg2-binary
+pgvector
+
+faiss-cpu
+
+pypdf
+tiktoken
